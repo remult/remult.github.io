@@ -3,6 +3,7 @@
 <script setup>
   import Icon from '../components/Icon.vue'
 </script>
+# Introduction
 
 **Remult** is a fullstack CRUD framework that uses your TypeScript model types to provide:
 
@@ -1474,7 +1475,7 @@ export class Contact {
 
 
 
-# Entities - Relations 🚀
+# Entities - Relations
 
 ---
 outline: [2, 3]
@@ -2324,7 +2325,7 @@ In this guide, we've explored the essential concepts of managing entity relation
 
 
 
-# Relations 🚀 - Filtering and Relations
+# Relations - Filtering and Relations
 
 # Filtering and Relations
 
@@ -6567,7 +6568,7 @@ Accessing the underlying database directly in Remult provides the flexibility to
 
 
 
-# Escape Hatches - Using Remult in Non-Remult Routes
+# Escape Hatches - Using in Non-Remult Routes
 
 ---
 keywords:
